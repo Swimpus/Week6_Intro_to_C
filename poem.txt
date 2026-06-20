@@ -1,3 +1,6 @@
 Oh sorrow how much I both miss and belittle you
 Yet when everyone will leave me...
 I know you will be sitting next to me.
+This is fputs! It's good for strings but needs you to put newlines~
+Look at this string!
+LMAO
