@@ -45,7 +45,7 @@ int main(int argc, char *argv[]) {
 
     char *end_p;
     double p = strtod("67.67",&end_p);
-    if (*end_p != '\0'){fprintf(stderr,"Invalid number\n");}else{printf("%.2lf\n",p);} Valid
+    if (*end_p != '\0'){fprintf(stderr,"Invalid number\n");}else{printf("%.2lf\n",p);} //Valid
 
 
 }
